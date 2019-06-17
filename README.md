@@ -1,10 +1,11 @@
 
 # ESITUR-Jerez data collection
----
 
 The dataset introduced here has been used in our paper:
 
 Kleinlein, R.; García-Faura, Á.; Luna Jiménez, C.; Montero, J.M.; Díaz-de-María, F.; Fernández-Martínez, F. Predicting Image Aesthetics for Intelligent Tourism Information Systems. Electronics 2019, 8, 671.
+
+[Paper:](https://www.mdpi.com/2079-9292/8/6/671)
 
 The figure below displays the main modules of the general framework of the ESITUR project. 
 The aim of this project is to develop a system capable of automatically retrieve high-quality audiovisual content for a given location and present it to new users through their smartphones in order to appeal them to visit a given spot. 
